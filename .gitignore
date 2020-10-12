@@ -34,13 +34,14 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
+
 
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
+
 
 # Kernel Module Compile Results
 *.mod*
@@ -51,3 +52,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 build
+dist
