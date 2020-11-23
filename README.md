@@ -1,4 +1,4 @@
-9-pin NES adapter to Kempston joystick
+9-pin NES adapter to Kempston joystick  
 Designed for [ZX-Evolution](http://www.nedopc.com/)  
 
 ## Harware  
